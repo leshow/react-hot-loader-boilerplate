@@ -13,6 +13,6 @@ includes:
 - babel
 - sass
 
-I borrowed the demo application from (react-slingshot)[https://github.com/coryhouse/react-slingshot] and updated it to work with RHL.
+I borrowed the demo application from (react-slingshot)[https://github.com/coryhouse/react-slingshot] and updated it to work with RHL. I added a few things that I needed (react-router-redux and console logging middleware) that aren't found in react-slingshot
 
 Enjoy.
